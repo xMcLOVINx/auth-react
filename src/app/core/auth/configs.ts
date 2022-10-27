@@ -3,5 +3,5 @@ export const authConfigs: any = {
   autoLoginRedirectTo: '/',
   useRefreshToken: true,
   intervalSecondsToVerifyToken: 3,
-  secondsRemainingToRefreshToken: 60 * 10,
+  secondsRemainingToRefreshToken: 60,
 };
